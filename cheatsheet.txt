@@ -7,3 +7,4 @@ git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-t
 git add <file name>: makes git aware of the file 
 git commit -m"Commit Comment": saves, makes a snapshot 
 git push: uploads
+clear: clear terminal
