@@ -1,0 +1,13 @@
+Come to class.
+Turn on your computer.
+Clone your repository, by typing in: git clone --config="http.proxy=http://silk1939:aroyajan11@192.168.2.1:8080" https://github.com/aroya1939-cmis/aroya1939-cmis-wd.git 
+Change directoy, to yours by typing: cd aroya1939-cmis-wd
+Create a file, called "file.txt", by typing in: gedit file.txt &
+If done corectly, your "file.txt" would pop up, and you could edit and make any changes as you desire. 
+When done editting the file, click save. 
+Go back to terminal, make github aware of the file, by adding, and typing in: git add file.txt
+Afterwards, save, and take a "snapshot" by committing, by typing in: git commit -m"Commit Comment" 
+To upload the file into github, you must push, by typing in: git push
+Go to github.com and check your repository if the file "file.txt" is there. If it's there, you've done everything correctly.
+Close all programs, and shut down your computer.
+Leave the class.
