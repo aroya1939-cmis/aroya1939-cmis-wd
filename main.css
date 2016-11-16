@@ -1,20 +1,40 @@
 html{
-	color:pink; 
-	background-color:blue;
+	color:purple; 
+	background-color:#F08080;
 }
-main{
-	background-color:blue;
+body{
+	background-color:#FFB6C1;
 }
 h1{
-	font-family:arial;
-	color:blue; 
+	font-family:monospace;
+	color:#66CDAA; 
 	font-size: 40px; 
+	border-style:dotted;
+	letter-spacing:-2px;
+	background-color:pink;
+	text-decoration: underline;
 }
 h2{
-
+	font-family:courier new;
+	color:purple;	
+	font-size: 30px;
+	background-color:#C71585;
+	padding: 1cm 2cm 1cm 2cm;
+	border-style:dotted solid double;
+	text-transform: capitalize;
 }
 p{
-	background-color:#008080;
-	border:solid 3px #000080;
+	background-color:#00a180;
+	border-style:solid 
+	border-right:3px #000080;
+	border-left:3px #000080;
+	border-top:thick double #000080;
+	border-bottom:thick double #000080;
+	padding: 2cm 4cm 3cm 4cm;
+	font-size: 50px;
+	font-family:verdana;
+	letter-spacing:-1px;
+	
+
 }
 
