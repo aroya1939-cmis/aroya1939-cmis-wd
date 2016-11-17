@@ -1,9 +1,25 @@
+/*
+colour
+background-color
+font-family
+font-size
+border-style
+letter-spacing
+text-decoration
+text-align
+text-shadow
+padding
+text-transform
+border-right top left bottom
+letter spacing
+*/
 html{
 	color:purple; 
 	background-color:#F08080;
 }
 body{
 	background-color:#FFB6C1;
+	background-image:url(sky.jpeg);
 }
 h1{
 	font-family:monospace;
@@ -13,11 +29,13 @@ h1{
 	letter-spacing:-2px;
 	background-color:pink;
 	text-decoration: underline;
+	text-align:center;
+	text-shadow:2px 2px #00a180;
 }
 h2{
 	font-family:courier new;
 	color:purple;	
-	font-size: 30px;
+	font-size: 40px;
 	background-color:#C71585;
 	padding: 1cm 2cm 1cm 2cm;
 	border-style:dotted solid double;
@@ -34,7 +52,8 @@ p{
 	font-size: 50px;
 	font-family:verdana;
 	letter-spacing:-1px;
-	
-
+}
+footer{
+	text-align:right;
 }
 
