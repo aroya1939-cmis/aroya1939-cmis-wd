@@ -11,19 +11,23 @@ text-shadow
 padding
 text-transform
 border-right top left bottom
+border-color
 letter spacing
+background image
+background position
 */
 html{
-	color:purple; 
-	background-color:#F08080;
+	color:purple;
+	background-color:#DDA0DD;
 }
 body{
 	background-color:#FFB6C1;
-	background-image:url(sky.jpeg);
+	background-image:url(http://www.ozwallpaper.com/wp-content/uploads/ktz/Cute-Pink-Backgrounds-Tumblr-mmu1crv9ribfdz7xpw2tci6zundvfqjwjbrlo23d68.jpg);
+	background-position:top;
 }
 h1{
 	font-family:monospace;
-	color:#66CDAA; 
+	color:#7FFFD4; 
 	font-size: 40px; 
 	border-style:dotted;
 	letter-spacing:-2px;
@@ -36,24 +40,30 @@ h2{
 	font-family:courier new;
 	color:purple;	
 	font-size: 40px;
-	background-color:#C71585;
+	background-color:white;
 	padding: 1cm 2cm 1cm 2cm;
 	border-style:dotted solid double;
+	border-color:#DDA0DD;
 	text-transform: capitalize;
+	background-image:url(https://cdn-enterprise.discourse.org/gethopscotch1/uploads/default/original/3X/1/b/1b20ae2dc146ecbb5ea28375224a7c7bc716b974.gif);
+	background-position:bottom;
+	background-size:100px 80px;
 }
 p{
-	background-color:#00a180;
+	background-color:#7FFFD4;
 	border-style:solid 
 	border-right:3px #000080;
 	border-left:3px #000080;
 	border-top:thick double #000080;
 	border-bottom:thick double #000080;
-	padding: 2cm 4cm 3cm 4cm;
-	font-size: 50px;
+	padding: 2cm 4cm 2cm 4cm;
+	font-size: 45px;
 	font-family:verdana;
 	letter-spacing:-1px;
+	text-align: left;
 }
 footer{
 	text-align:right;
+	color:purple;
 }
 
