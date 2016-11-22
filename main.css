@@ -15,6 +15,11 @@ border-color
 letter spacing
 background image
 background position
+height
+background-repeat
+background-blend-mode
+border-radius
+background-size
 */
 html{
 	color:purple;
@@ -24,6 +29,7 @@ body{
 	background-color:#FFB6C1;
 	background-image:url(http://www.ozwallpaper.com/wp-content/uploads/ktz/Cute-Pink-Backgrounds-Tumblr-mmu1crv9ribfdz7xpw2tci6zundvfqjwjbrlo23d68.jpg);
 	background-position:top;
+	background-blend-mode: lighten;
 }
 h1{
 	font-family:monospace;
@@ -35,6 +41,7 @@ h1{
 	text-decoration: underline;
 	text-align:center;
 	text-shadow:2px 2px #00a180;
+	border-radius:15px;
 }
 h2{
 	font-family:courier new;
@@ -48,6 +55,7 @@ h2{
 	background-image:url(https://cdn-enterprise.discourse.org/gethopscotch1/uploads/default/original/3X/1/b/1b20ae2dc146ecbb5ea28375224a7c7bc716b974.gif);
 	background-position:bottom;
 	background-size:100px 80px;
+	background-repeat: repeat;
 }
 p{
 	background-color:#7FFFD4;
@@ -65,5 +73,6 @@ p{
 footer{
 	text-align:right;
 	color:purple;
+	height:20px;
 }
 
