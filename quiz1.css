@@ -1,18 +1,39 @@
 html{
-	
+}	
 body{
-	
+
 }
 h1{
-	
+	color: yellow;
+	background-color:green;
+	font-family:verdana;
+	font-size:30px	
+	font-style: italic;
+	letter-spacing:-3px;
+	border-bottom-style:dashed;
 }
 h2{
-	
+	color:blue;
+	background-color:red;	
+	font-size: 15px;
+	border-style: dashed 2px;
+}
+h3{
+	color:yellow;
+	background-color: purple;
+	font-size:20px;
+}
+h4{
+	color:purple;
+	background-color:yellow;
 }
 p{
-	
+	color:blue;
+	background-color: white;
+	font-size:14px;
+
 }
 footer{
-	
+	color: blue;
 }
 
