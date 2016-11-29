@@ -16,10 +16,28 @@ letter spacing
 background image
 background position
 height
-background-repeat
-background-blend-mode
-border-radius
+background-repeat: I learned from Justin to make my background images repeat.
+border-radius: I learned from Justin to make the ends of my border round.
 background-size
+*/
+/*
+*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font and text of each element.
+*Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+*Use at least 4 different units to set sizes of various aspects of your webpage.
+*Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into the top of your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server.
 */
 html{
 	color:purple;
@@ -29,7 +47,6 @@ body{
 	background-color:#FFB6C1;
 	background-image:url(http://www.ozwallpaper.com/wp-content/uploads/ktz/Cute-Pink-Backgrounds-Tumblr-mmu1crv9ribfdz7xpw2tci6zundvfqjwjbrlo23d68.jpg);
 	background-position:top;
-	background-blend-mode: lighten;
 }
 h1{
 	font-family:monospace;
@@ -59,7 +76,7 @@ h2{
 }
 p{
 	background-color:#7FFFD4;
-	border-style:solid 
+	border-style:solid; 
 	border-right:3px #000080;
 	border-left:3px #000080;
 	border-top:thick double #000080;
