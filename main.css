@@ -71,7 +71,7 @@ h2{
 	text-transform: capitalize;
 	background-image:url(https://cdn-enterprise.discourse.org/gethopscotch1/uploads/default/original/3X/1/b/1b20ae2dc146ecbb5ea28375224a7c7bc716b974.gif);
 	background-position:bottom;
-	background-size:100px 80px;
+	background-size:20%;
 	background-repeat: repeat;
 }
 p{
@@ -79,7 +79,7 @@ p{
 	border-style:solid; 
 	border-right:3px #000080;
 	border-left:3px #000080;
-	border-top:thick double #000080;
+	border-top:thick double 0.25in#000080;
 	border-bottom:thick double #000080;
 	padding: 2cm 4cm 2cm 4cm;
 	font-size: 45px;
