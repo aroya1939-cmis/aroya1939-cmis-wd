@@ -1,0 +1,37 @@
+html{
+	font-size:8pt;
+	background-color:red;	
+}
+body{
+	border-left:red dotted 30px;
+}
+
+header {
+	background-color:blue;
+}
+
+main {
+	background-color:white;
+	color:black;
+}
+footer {
+	color:white;
+	background-color:blue;
+}
+nav{
+	color:yellow;
+	font-style:
+}
+h1 {
+	color:yellow;
+	font-family:Impact, Charcoal, sans-serif;	
+	font-size:40px;
+}
+h2{
+	color:black;
+	border-right:ridge green;
+	font-size:35px;
+}
+p {
+	color:black;
+}
