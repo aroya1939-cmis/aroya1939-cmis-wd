@@ -79,7 +79,7 @@ main p{
 	border-style:solid; 
 	border-right:3px #000080;
 	border-left:3px #000080;
-	border-top:thick double 0.25in#000080;
+	border-top:thick double #000080;
 	border-bottom:thick double #000080;
 	padding: 2cm 4cm 2cm 4cm;
 	font-size: 45px;
