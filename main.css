@@ -45,7 +45,7 @@ html{
 }
 body{
 	background-color:#FFB6C1;
-	background-image:url(http://www.ozwallpaper.com/wp-content/uploads/ktz/Cute-Pink-Backgrounds-Tumblr-mmu1crv9ribfdz7xpw2tci6zundvfqjwjbrlo23d68.jpg);
+	background-image:url(http://www.ozwallpaper.com/wp-content/uploads/ktz/Cute-Pink-Backgrounds-Tumblrmmu1crv9ribfdz7xpw2tci6zundvfqjwjbrlo23d68.jpg);
 	background-position:top;
 }
 h1{
@@ -74,7 +74,7 @@ h2{
 	background-size:20%;
 	background-repeat: repeat;
 }
-p{
+main p{
 	background-color:#7FFFD4;
 	border-style:solid; 
 	border-right:3px #000080;
@@ -91,5 +91,9 @@ footer{
 	text-align:right;
 	color:purple;
 	height:20px;
+	margin: 0;
 }
-
+ul, ol {
+	border-style: dashed;
+	width: 16in;
+}
