@@ -43,6 +43,15 @@ html{
 	color:purple;
 	background-color:#DDA0DD;
 }
+header{
+	border:groove;
+}
+nav{
+	font-size: 30px;
+}
+main{ 
+	border-right: double;
+}
 body{
 	background-color:#FFB6C1;
 	background-image:url(http://www.ozwallpaper.com/wp-content/uploads/ktz/Cute-Pink-Backgrounds-Tumblrmmu1crv9ribfdz7xpw2tci6zundvfqjwjbrlo23d68.jpg);
